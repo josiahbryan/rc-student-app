@@ -1,0 +1,23 @@
+c:\devel\rc-student-app\gen\edu\rc\StudentApp\R.java \
+ : c:\devel\rc-student-app\res\drawable\icon.png \
+c:\devel\rc-student-app\res\drawable-hdpi\icon.png \
+c:\devel\rc-student-app\res\drawable-hdpi\ic_launcher.png \
+c:\devel\rc-student-app\res\drawable-ldpi\icon.png \
+c:\devel\rc-student-app\res\drawable-ldpi\ic_launcher.png \
+c:\devel\rc-student-app\res\drawable-mdpi\icon.png \
+c:\devel\rc-student-app\res\drawable-mdpi\ic_launcher.png \
+c:\devel\rc-student-app\res\drawable-xhdpi\icon.png \
+c:\devel\rc-student-app\res\drawable-xhdpi\ic_launcher.png \
+c:\devel\rc-student-app\res\layout\main.xml \
+c:\devel\rc-student-app\res\values\strings.xml \
+c:\devel\rc-student-app\res\xml\config.xml \
+c:\devel\rc-student-app\bin\res\drawable\icon.png \
+c:\devel\rc-student-app\bin\res\drawable-hdpi\icon.png \
+c:\devel\rc-student-app\bin\res\drawable-hdpi\ic_launcher.png \
+c:\devel\rc-student-app\bin\res\drawable-ldpi\icon.png \
+c:\devel\rc-student-app\bin\res\drawable-ldpi\ic_launcher.png \
+c:\devel\rc-student-app\bin\res\drawable-mdpi\icon.png \
+c:\devel\rc-student-app\bin\res\drawable-mdpi\ic_launcher.png \
+c:\devel\rc-student-app\bin\res\drawable-xhdpi\icon.png \
+c:\devel\rc-student-app\bin\res\drawable-xhdpi\ic_launcher.png \
+c:\devel\rc-student-app\bin\AndroidManifest.xml \
